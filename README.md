@@ -75,7 +75,7 @@ Welcome to my journey through **Striver's A2Z DSA Sheet**. This repository docum
 
 ## 🌐 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-kumar-b289b226b/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu231204)
 - 🐦 [Twitter](https://x.com/himanshu231204)
 - 💻 [GitHub](https://github.com/himanshu231204)
 
