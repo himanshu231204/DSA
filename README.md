@@ -20,7 +20,7 @@ Welcome to my journey through **Striver's A2Z DSA Sheet**. This repository docum
 ## 📚 Sheet Breakdown
 
 | Phase | Topics Covered |
-|-------|----------------|
+| ------- | --------------- |
 | Step 1 | Sorting, Arrays, Strings |
 | Step 2 | Recursion, Basic Maths, Hashing |
 | Step 3 | Binary Search, Bit Manipulation |
@@ -41,12 +41,14 @@ Welcome to my journey through **Striver's A2Z DSA Sheet**. This repository docum
 - ✅ Review and revisit problems regularly
 
 ---
+
 ## ✍️ How I'm Approaching This
 
 - 📌 Solving problems consistently with full focus
 - 🧠 Prioritizing deep understanding over memorization
 - 🔍 Debugging and learning from mistakes
 - 📖 Maintaining clean, well-commented code
+
 ---
 
 🧠 What I’m Learning
@@ -55,6 +57,7 @@ Welcome to my journey through **Striver's A2Z DSA Sheet**. This repository docum
 - Brute-force → optimized approach thinking
 - Time and space complexity analysis
 - Solid foundations for coding interviews
+
 --------
 
 ## 🛠️ Tech Stack
@@ -82,5 +85,3 @@ Welcome to my journey through **Striver's A2Z DSA Sheet**. This repository docum
 ---
 
 > ⭐ Found this helpful? Don’t forget to star the repo and share it with others grinding DSA! Let’s grow together 💪
-
-
